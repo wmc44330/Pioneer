@@ -1,0 +1,13 @@
+WCHLINK仿真器更多更新资料下载网址：
+https://www.wch.cn/products/WCH-Link.html 
+
+开发软件MounRiver Studio下载网址：
+ 获取网址：https://mounriver.com/ 
+
+
+单独下载HEX独立软件:WCH-LinkUtility 下载网址:
+https://www.wch.cn/downloads/WCH-LinkUtility_ZIP.html 
+
+
+WCH单片机ISP下载软件WCHISPStudio下载网址：
+https://www.wch.cn/downloads/WCHISPTool_Setup_exe.html 

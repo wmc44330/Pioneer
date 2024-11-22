@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Project [CH32V307.PrjPcb]
+   Generated File[Fabrication Testpoint Report for CH32V307.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 4:36:08 On 2024/11/20

@@ -1,0 +1,18 @@
+如果在升级过程中中断，LED闪烁，无法识别到仿真器，可按照下面步骤操作：
+
+1：打开外壳，短接ISP，注意要可靠短接，然后插上USB
+ 
+2：打开WCHISP软件，添加目标工程文件：
+
+固件文件目录一般是在 MounRiver Studio 安装路径和 WCH-LinkUtility 安装路径。
+具体目录：WCH-LinkUtility\Firmware Link\
+  
+              MounRiver\MounRiver Studio \update\Firmware Link\
+
+
+WCH-Link_APP_IAP_ARM.bin  ……DAPLINK固件文件
+
+WCH-Link_APP_IAP_RV.bin …… WCHLINK-RV模式固件文件
+
+
+其他详细操作可参考——WCH-Link使用说明.pdf ——“WCHISPStudio USB 离线更新”章节。

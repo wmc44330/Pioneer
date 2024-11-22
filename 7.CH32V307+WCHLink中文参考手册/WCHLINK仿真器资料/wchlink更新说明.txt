@@ -1,0 +1,3 @@
+最新版WCH-LINK说明会跟随MRS软件更新，文档路径MRS安装根目录下：MounRiver\MounRiver_Studio\ExTool
+
+8-20：新版软件需要更新固件到v2.5，具体升级操作及固件文件版本区别可看“WCHLINK使用说明V2.5版本固件.PDF”。
