@@ -57,7 +57,7 @@ CH32V307.step
 ![CH32V307-01](https://github.com/user-attachments/assets/70185e0d-9676-476e-a6d6-79e0f750a236)
 
 ## 6.3D渲染图
-<img width="501" alt="9a2d31423b443c0dccbd2f5d3a3dc1b" src="https://github.com/user-attachments/assets/54fd4415-65c2-4dd3-b3ec-1db79e21d315">  
+<img width="501" alt="9a2d31423b443c0dccbd2f5d3a3dc1b" src="https://github.com/user-attachments/assets/54fd4415-65c2-4dd3-b3ec-1db79e21d315">
 <img width="495" alt="718cc0fcc5220deaca71a6e41590d02" src="https://github.com/user-attachments/assets/f8f9e473-e592-43ba-88c0-79785f8dc467">
 
 
